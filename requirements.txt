@@ -1,0 +1,6 @@
+﻿# Face Tracking Mouse Control - Python Dependencies
+# Install with: python -m pip install -r requirements.txt
+
+opencv-python>=4.8.0      # Computer vision library for face detection
+numpy>=1.24.0             # Numerical computing library
+pyautogui>=0.9.53         # Cross-platform mouse and keyboard control
